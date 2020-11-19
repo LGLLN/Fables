@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Crete+Round&family=Homemade+Apple&family=Libre+Baskerville:wght@400;700&family=Lobster&family=Monoton&family=PT+Serif:wght@400;700&family=Ultra&display=swap');
+p{
+font-family: 'Crete';
+font-size:24px;
+}
+
+nav{
+  font-family:'Ultra';
+  font-size: 20px;
+  color:#031706;
+}
+
+
+#section03
+h2{
+  font-family: 'Ultra';
+font-size:40px;
+}
+
+#section06
+h2{
+  font-family: 'Homemade'serif;
+font-size:4em;
+}
+
+#section08
+h2{
+  font-family: 'Monoton';
+font-size:4em;
+}
+
+#section07
+h2{
+  font-family: 'Lobster';
+font-size:4em;
+}
+
+#footer
+h1{
+  font-family: 'Homemade'
+}
